@@ -11,3 +11,9 @@ perfect-php-UT
 /mini_blog_UT  
 
 
+■Unit Test用リソース  
+/bootstrap_dev.php  
+/phpunit.xml  
+/flamework_UT  
+/mini_blog_UT  
+
